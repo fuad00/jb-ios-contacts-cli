@@ -23,7 +23,7 @@
 Установка зависимостей (Sileo / Apt):
 ```bash
 sudo apt update
-sudo apt install clang ldid-procursus make
+sudo apt install clang ldid make
 ```
 
 ## 📦 Сборка
